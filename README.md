@@ -8,3 +8,6 @@ All Django projects of different nature with different use cases in different br
   
 2: Branch `todo` includes basic app for managing user's todo items by using class based builtin views.
    Functionality: Login, Registration, add, remove, update todo items
+  
+
+3: Branch `photoshare` very simple app to add and view categorized photos and you can add new category too. It is using AWS S3 storage bucket.
