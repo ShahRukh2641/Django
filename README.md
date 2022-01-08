@@ -11,3 +11,5 @@ All Django projects of different nature with different use cases in different br
   
 
 3: Branch `photoshare` very simple app to add and view categorized photos and you can add new category too. It is using AWS S3 storage bucket.
+
+3: Branch `contact-list` very simple app to add/view/edit and delete contacts. The interesting thing is the layout of the app.
